@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Group Money Manager</string>
+    <string name="new_event_image_suggestion">Please provide event name and optional event image.</string>
+    <string name="add_participant_label">ADD PARTICIPANTS OF THE EVENT</string>
+</resources>
