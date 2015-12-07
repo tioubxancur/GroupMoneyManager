@@ -27,7 +27,7 @@
             android:adjustViewBounds="true"
             android:scaleType="centerInside"
             android:src="@mipmap/ic_default_participant_pic"
-            android:background="@drawable/circluar_plate"
+            android:background="@drawable/circluar_plate_grey"
             android:layout_weight="0.1"/>
 
         <android.support.v4.widget.Space

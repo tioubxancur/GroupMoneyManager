@@ -1,5 +1,14 @@
 <resources>
     <string name="app_name">Group Money Manager</string>
+
+    <string name="title_activity_create_new_event">New Event</string>
+    <string name="title_activity_all_events">All Events</string>
+    <string name="title_activity_add_participants">Add Participants</string>
+
+    <string name="next">Next</string>
+    <string name="create">Create</string>
+    <string name="about_us">About us</string>
+
     <string name="new_event_image_suggestion">Please provide event name and optional event image.</string>
     <string name="add_participant_label">ADD PARTICIPANTS OF THE EVENT</string>
 </resources>
